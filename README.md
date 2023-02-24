@@ -6,6 +6,7 @@ Frontend Developer
 
 I am a frontend developer who loves React.
 
+* 🖥️  See my portfolio at [My Movie Website](http://decomposed-tomatoes.vercel.app/)
 * ✉️  You can contact me at [szilard.zr@gmail.com](mailto:szilard.zr@gmail.com)
 * 🧠  I'm learning Node.js
 
